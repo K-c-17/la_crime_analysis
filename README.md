@@ -1,7 +1,3 @@
-Here’s a comprehensive `README.md` file you can use for your Tableau-based LA Crime Analysis project. It's structured to highlight your objectives, methods, data sources, team contributions, and key findings in a professional, documentation-friendly format:
-
----
-
 # LA Crime Analysis Project
 
 ## 📊 Overview
@@ -81,18 +77,6 @@ The primary goals of this project were to:
 
 ---
 
-## 🧑‍💻 Team Contributions
-
-| Task                              | Team Members                               |
-| --------------------------------- | ------------------------------------------ |
-| Data Collection & Cleaning        | Mayank                                     |
-| Visualization Design              | Kshitij, Mayank, Murtaza, Shubham, Saurabh |
-| Dashboard Creation & Storytelling | Kshitij, Mayank, Saurabh                   |
-| Analysis & Insights               | Kshitij, Mayank, Danish, Murtaza, Shubham  |
-| Report & Presentation             | Kshitij, Murtaza, Danish, Saurabh          |
-
----
-
 ## 📚 References
 
 1. [LAPD Crime Data](https://catalog.data.gov/dataset/crime-data-from-2020-to-present)
@@ -102,7 +86,3 @@ The primary goals of this project were to:
 5. Leitner, M. (2013). *Crime Mapping Using Geospatial Tech*. Springer.
 6. FBI (2023). *Crime in the U.S.: 2022 Report*.
 7. Rosés et al. (2021). *Agent-Based Simulation to Predict Crime Patterns*. CEUS.
-
----
-
-Let me know if you'd like this in a downloadable `.md` or Word format.
