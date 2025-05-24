@@ -5,6 +5,8 @@
 This project explores crime trends in Los Angeles using data visualization techniques powered by **Tableau**. It provides stakeholders—including law enforcement, city officials, and community advocates—with clear, data-driven insights into crime patterns from **2020 to 2024**, emphasizing the impact of the COVID-19 pandemic, demographic patterns, and geographic distribution.
 
 ---
+### Dashbaord
+**Tableau Dashboard:** [Click Here](https://public.tableau.com/app/profile/kshitij4252/viz/LACrimeAnalysis_17479606977790/LACrimeAnalysis)
 
 ## 🧭 Objectives
 
